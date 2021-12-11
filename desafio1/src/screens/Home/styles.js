@@ -1,14 +1,51 @@
 import {StyleSheet} from 'react-native';
 
 export const styles = StyleSheet.create({
-  container: {
-    backgroundColor: 'lightblue',
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-  },
-  button: {
-    backgroundColor: 'lightcoral',
-    padding: 10,
-  },
-});
+    container: {
+      flex: 1,
+      backgroundColor: '#0095FF',
+      alignItems: 'center',
+    },
+    button: {
+      backgroundColor: 'transparent',
+      paddingTop: 0,
+      borderRadius: 50,
+      borderWidth: 1,
+      alignItems: 'center',
+      justifyContent: 'center',
+      width: 90,
+      height: 90,
+      display: 'flex',
+      margin: 10,
+      marginLeft: 10,
+      borderColor: 'white',
+      flexDirection: 'row',
+    },
+    button2: {
+      backgroundColor: 'transparent',
+      paddingTop: 0,
+      borderRadius: 50,
+      borderWidth: 1,
+      alignItems: 'center',
+      justifyContent: 'center',
+      width: 20,
+      height: 20,
+      display: 'flex',
+      margin: 0,
+      marginLeft: 7,
+      borderColor: 'white',
+      flexDirection: 'row',
+    },
+    buttonvalida: {
+      backgroundColor: 'transparent',
+      paddingTop: 0,
+      alignItems: 'center',
+      justifyContent: 'center',
+      display: 'flex',
+      margin: 2,
+      marginLeft: 70,
+      marginRight: 70,
+      borderColor: 'white',
+      flexDirection: 'row',
+    }
+  });
