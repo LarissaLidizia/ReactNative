@@ -2,7 +2,8 @@
 
 Desafio 1, clone do app do cartão NEON.
 Seguem fotos do layout em meu celular.
-![image](https://user-images.githubusercontent.com/89466474/145907017-7ad203b3-c786-403c-8828-a9b848bfcc08.png)
-![image](https://user-images.githubusercontent.com/89466474/145907048-e47b4757-02c9-4516-9ca5-17a00fc240ff.png)
-![image](https://user-images.githubusercontent.com/89466474/145907031-61c40155-5219-4f85-8d87-a3112274153d.png)
+![image](https://user-images.githubusercontent.com/89466474/145907374-d85600e3-83c1-4e86-a6f2-deb0c89b987f.png)
+![image](https://user-images.githubusercontent.com/89466474/145907519-252314be-02eb-487e-9f6a-9f338c9cee72.png)
+![image](https://user-images.githubusercontent.com/89466474/145907605-53ff68ba-650f-4ecd-961b-3963a55e5d57.png)
+
 
